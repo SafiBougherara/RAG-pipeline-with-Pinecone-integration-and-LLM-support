@@ -1,0 +1,45 @@
+RÉFÉRENTIEL DE COMPÉTENCES TECHNIQUES - DÉVELOPPEUR IA
+
+NIVEAU DÉBUTANT (requis pour l'alternance) :
+
+- Bases de JavaScript et Node.js
+
+- Comprendre ce qu'est une API REST
+
+- Avoir utilisé fetch ou axios
+
+- Connaître les concepts de base de l'IA générative
+
+NIVEAU INTERMÉDIAIRE (requis pour CDI Bac+3) :
+
+- Maîtriser les appels API avec authentification Bearer
+
+- Savoir utiliser dotenv pour sécuriser les clés
+
+- Comprendre les tokens et leur impact sur les coûts
+
+- Avoir implémenté un chatbot avec historique messages[]
+
+- Connaître les providers : Mistral, Groq, HuggingFace
+
+NIVEAU AVANCÉ (requis pour CDI Bac+5) :
+
+- Maîtriser la mise en place d'une pipeline RAG complète
+
+- Savoir créer et utiliser un vector store avec Pinecone
+
+- Implémenter le Function Calling et la boucle agentique
+
+- Appliquer les bonnes pratiques : refactorisation, garde-fous de coût
+
+- Connaître les principes d'Ethical AI : biais, transparence, RGPD
+
+OUTILS ET TECHNOLOGIES DU MARCHÉ :
+
+- LLM : Mistral AI, Groq, OpenAI, Anthropic Claude
+
+- Bases vectorielles : Pinecone, Weaviate, Chroma
+
+- Frameworks : LangChain, LlamaIndex
+
+- Cloud : AWS Bedrock, Azure OpenAI, Google Vertex AI

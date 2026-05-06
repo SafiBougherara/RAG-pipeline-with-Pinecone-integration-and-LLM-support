@@ -1,0 +1,41 @@
+- Expliquez le rôle des messages system, user et assistant
+
+- Qu'est-ce qu'une hallucination et comment la limiter ?
+
+Sur le RAG :
+
+- Décrivez les 5 étapes d'une pipeline RAG
+
+- Pourquoi utilise-t-on une base vectorielle plutôt qu'une base SQL ?
+
+- Qu'est-ce que le chunking et quels paramètres faut-il régler ?
+
+CE QU'ON ÉVALUE :
+
+- La clarté des explications : sait-on expliquer un concept simplement ?
+
+- La pratique : a-t-on déjà codé ces fonctionnalités ?
+
+- La curiosité : connaît-on les outils récents du marché ?
+
+- L'éthique : est-on conscient des risques liés à l'IA ?
+
+GUIDE D'ENTRETIEN TECHNIQUE - DÉVELOPPEUR IA
+
+DÉROULEMENT DE L'ENTRETIEN :
+
+L'entretien se déroule en deux parties : une partie technique (45 minutes) et une partie comportementale (15 minutes).
+
+QUESTIONS TECHNIQUES TYPIQUES :
+
+Sur Node.js et les API :
+
+- Expliquez la différence entre GET et POST dans une requête HTTP
+
+- Comment gérez-vous les erreurs dans un appel fetch ?
+
+- Pourquoi utilise-t-on dotenv pour les clés API ?
+
+Sur les LLM et l'IA générative :
+
+- Qu'est-ce qu'un token ? Comment impacte-t-il les coûts ?

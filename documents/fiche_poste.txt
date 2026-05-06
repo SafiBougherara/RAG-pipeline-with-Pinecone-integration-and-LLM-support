@@ -1,0 +1,43 @@
+FICHE DE POSTE - DÉVELOPPEUR IA
+
+Intitulé du poste : Développeur IA / Intégrateur d'API LLM
+
+Niveau : Bac+3 à Bac+5
+
+Type de contrat : CDI ou alternance
+
+Lieu : Remote ou hybride
+
+MISSIONS PRINCIPALES :
+
+- Intégrer des API d'intelligence artificielle générative dans des applications Node.js
+
+- Concevoir et implémenter des pipelines RAG (Retrieval-Augmented Generation)
+
+- Développer des chatbots et agents conversationnels avec Tool Use
+
+- Optimiser les coûts d'inférence et mettre en place des garde-fous
+
+- Assurer la qualité et la fiabilité des réponses générées
+
+COMPÉTENCES TECHNIQUES REQUISES :
+
+- Maîtrise de Node.js et JavaScript asynchrone (async/await)
+
+- Expérience avec les API REST et le protocole fetch
+
+- Connaissance des LLM : Mistral, Groq, HuggingFace
+
+- Maîtrise de Pinecone ou équivalent pour les bases vectorielles
+
+- Compréhension des concepts : tokens, embeddings, chunking, prompting
+
+- Bonnes pratiques : gestion des erreurs, refactorisation, sécurité des clés API
+
+PROFIL RECHERCHÉ :
+
+- Curieux, autonome, à l'aise avec la documentation technique
+
+- Sensibilité aux enjeux éthiques de l'IA
+
+- Capacité à vulgariser des concepts techniques
