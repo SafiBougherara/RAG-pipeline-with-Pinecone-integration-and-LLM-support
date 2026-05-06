@@ -53,3 +53,7 @@ Le dossier `documents/` doit contenir :
 ## Capture d'écran et preuves de fonctionnement
 
 - Voir "Capture d'écran embed_doc ET rag_pipeline.png"
+
+
+
+## DONE WITH LOVE BY AMIR CLEMENT & SAFI ❤️
